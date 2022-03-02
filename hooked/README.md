@@ -1,4 +1,4 @@
-Module 6.9
+Module-6.9
 
 I followed this guide: https://www.freecodecamp.org/news/state-management-with-react-hooks/
 
